@@ -1,0 +1,20 @@
+/* Under Construction By Oruj Sharifli */
+@media (min-width:992px) {
+
+    /* [HEADER] */
+    /* header content */
+    .header-content {
+        justify-content: space-between;
+    }
+
+    /* header rigth */
+    .header-rigth {
+        display: flex;
+    }
+
+    /* [FOOTER] */
+    /* footer content */
+    .footer-content {
+        justify-content: flex-end;
+    }
+}
